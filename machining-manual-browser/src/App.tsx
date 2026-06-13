@@ -16,7 +16,9 @@ const chapters: Omit<Chapter, 'content'>[] = [
   { id: '03', title: 'Precision Measurement Tools and Calibration', filename: 'chapter-03-precision-measurement-calibration.md' },
   { id: '04', title: 'Advanced Metrology and CMM Operations', filename: 'chapter-04-advanced-metrology-cmm.md' },
   { id: '05', title: 'GD&T Interpretation for Aerospace Applications', filename: 'chapter-05-gdt-interpretation.md' },
-  { id: '06', title: 'Aluminum Alloys (2024, 6061, 7075) - Properties and Machining', filename: 'chapter-06-aluminum-alloys.md' }
+  { id: '06', title: 'Aluminum Alloys (2024, 6061, 7075) - Properties and Machining', filename: 'chapter-06-aluminum-alloys.md' },
+  { id: '07', title: 'Titanium Alloys - Properties and Machining Strategies', filename: 'chapter-07-titanium-alloys.md' },
+  { id: '08', title: 'Stainless Steel Alloys - 300 and 400 Series Machining', filename: 'chapter-08-stainless-steel-alloys.md' }
 ];
 
 function App() {
