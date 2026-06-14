@@ -22,7 +22,9 @@ const chapters: Omit<Chapter, 'content'>[] = [
   { id: '09', title: 'Inconel and Superalloy Machining', filename: 'chapter-09-inconel-superalloys.md' },
   { id: '10', title: 'Carbon Steel and Tool Steel Machining', filename: 'chapter-10-carbon-tool-steels.md' },
   { id: '11', title: 'Composite Materials and Advanced Aerospace Alloys', filename: 'chapter-11-composites-advanced-alloys.md' },
-  { id: '12', title: 'CNC Programming Fundamentals', filename: 'chapter-12-cnc-programming-fundamentals.md' }
+  { id: '12', title: 'CNC Programming Fundamentals', filename: 'chapter-12-cnc-programming-fundamentals.md' },
+  { id: '13', title: 'Advanced Workholding and Fixture Design', filename: 'chapter-13-advanced-workholding-fixture-design.md' },
+  { id: '14', title: 'High-Speed Machining Techniques', filename: 'chapter-14-high-speed-machining-techniques.md' }
 ];
 
 function App() {
