@@ -26,7 +26,9 @@ const chapters: Omit<Chapter, 'content'>[] = [
   { id: '13', title: 'Advanced Workholding and Fixture Design', filename: 'chapter-13-advanced-workholding-fixture-design.md' },
   { id: '14', title: 'High-Speed Machining Techniques', filename: 'chapter-14-high-speed-machining-techniques.md' },
   { id: '15', title: 'CAM Programming and Tool Path Optimization', filename: 'chapter-15-cam-programming-tool-path-optimization.md' },
-  { id: '16', title: 'Surface Finish and Quality Control', filename: 'chapter-16-surface-finish-quality-control.md' }
+  { id: '16', title: 'Surface Finish and Quality Control', filename: 'chapter-16-surface-finish-quality-control.md' },
+  { id: '17', title: 'Advanced Materials and Cutting Strategies', filename: 'chapter-17.md' },
+  { id: '18', title: 'Toolpath Optimization and Adaptive Machining', filename: 'chapter-18.md' }
 ];
 
 function App() {
