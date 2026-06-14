@@ -18,7 +18,9 @@ const chapters: Omit<Chapter, 'content'>[] = [
   { id: '05', title: 'GD&T Interpretation for Aerospace Applications', filename: 'chapter-05-gdt-interpretation.md' },
   { id: '06', title: 'Aluminum Alloys (2024, 6061, 7075) - Properties and Machining', filename: 'chapter-06-aluminum-alloys.md' },
   { id: '07', title: 'Titanium Alloys - Properties and Machining Strategies', filename: 'chapter-07-titanium-alloys.md' },
-  { id: '08', title: 'Stainless Steel Alloys - 300 and 400 Series Machining', filename: 'chapter-08-stainless-steel-alloys.md' }
+  { id: '08', title: 'Stainless Steel Alloys - 300 and 400 Series Machining', filename: 'chapter-08-stainless-steel-alloys.md' },
+  { id: '09', title: 'Inconel and Superalloy Machining', filename: 'chapter-09-inconel-superalloys.md' },
+  { id: '10', title: 'Carbon Steel and Tool Steel Machining', filename: 'chapter-10-carbon-tool-steels.md' }
 ];
 
 function App() {
