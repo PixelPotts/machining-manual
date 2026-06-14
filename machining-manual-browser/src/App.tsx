@@ -20,7 +20,9 @@ const chapters: Omit<Chapter, 'content'>[] = [
   { id: '07', title: 'Titanium Alloys - Properties and Machining Strategies', filename: 'chapter-07-titanium-alloys.md' },
   { id: '08', title: 'Stainless Steel Alloys - 300 and 400 Series Machining', filename: 'chapter-08-stainless-steel-alloys.md' },
   { id: '09', title: 'Inconel and Superalloy Machining', filename: 'chapter-09-inconel-superalloys.md' },
-  { id: '10', title: 'Carbon Steel and Tool Steel Machining', filename: 'chapter-10-carbon-tool-steels.md' }
+  { id: '10', title: 'Carbon Steel and Tool Steel Machining', filename: 'chapter-10-carbon-tool-steels.md' },
+  { id: '11', title: 'Composite Materials and Advanced Aerospace Alloys', filename: 'chapter-11-composites-advanced-alloys.md' },
+  { id: '12', title: 'CNC Programming Fundamentals', filename: 'chapter-12-cnc-programming-fundamentals.md' }
 ];
 
 function App() {
