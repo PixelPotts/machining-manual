@@ -24,7 +24,9 @@ const chapters: Omit<Chapter, 'content'>[] = [
   { id: '11', title: 'Composite Materials and Advanced Aerospace Alloys', filename: 'chapter-11-composites-advanced-alloys.md' },
   { id: '12', title: 'CNC Programming Fundamentals', filename: 'chapter-12-cnc-programming-fundamentals.md' },
   { id: '13', title: 'Advanced Workholding and Fixture Design', filename: 'chapter-13-advanced-workholding-fixture-design.md' },
-  { id: '14', title: 'High-Speed Machining Techniques', filename: 'chapter-14-high-speed-machining-techniques.md' }
+  { id: '14', title: 'High-Speed Machining Techniques', filename: 'chapter-14-high-speed-machining-techniques.md' },
+  { id: '15', title: 'CAM Programming and Tool Path Optimization', filename: 'chapter-15-cam-programming-tool-path-optimization.md' },
+  { id: '16', title: 'Surface Finish and Quality Control', filename: 'chapter-16-surface-finish-quality-control.md' }
 ];
 
 function App() {
