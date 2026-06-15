@@ -28,7 +28,11 @@ const chapters: Omit<Chapter, 'content'>[] = [
   { id: '15', title: 'CAM Programming and Tool Path Optimization', filename: 'chapter-15-cam-programming-tool-path-optimization.md' },
   { id: '16', title: 'Surface Finish and Quality Control', filename: 'chapter-16-surface-finish-quality-control.md' },
   { id: '17', title: 'Advanced Materials and Cutting Strategies', filename: 'chapter-17.md' },
-  { id: '18', title: 'Toolpath Optimization and Adaptive Machining', filename: 'chapter-18.md' }
+  { id: '18', title: 'Toolpath Optimization and Adaptive Machining', filename: 'chapter-18.md' },
+  { id: '19', title: 'Quality Assurance and Statistical Process Control', filename: 'chapter-19.md' },
+  { id: '20', title: 'Lean Manufacturing and Workflow Optimization', filename: 'chapter-20.md' },
+  { id: '21', title: 'Advanced Inspection Techniques and CMM Programming', filename: 'chapter-21.md' },
+  { id: '22', title: 'Cost Analysis and Production Economics', filename: 'chapter-22.md' }
 ];
 
 function App() {
